@@ -1,74 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sangbeom\\source\\repos\\Investment\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\sangbeom\\source\\repos\\investment\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\sangbeom\\source\\repos\\investment\\portpoliomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:portpoliomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\sangbeom\\source\\repos\\investment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\A\\Documents\\Investment\\Investment\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PortpolioManager.cs",
-              "DocumentMoniker": "C:\\Users\\sangbeom\\source\\repos\\Investment\\PortpolioManager.cs",
-              "RelativeDocumentMoniker": "PortpolioManager.cs",
-              "ToolTip": "C:\\Users\\sangbeom\\source\\repos\\Investment\\PortpolioManager.cs",
-              "RelativeToolTip": "PortpolioManager.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:14:45.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Investment.cs",
-              "DocumentMoniker": "C:\\Users\\sangbeom\\source\\repos\\Investment\\Investment.cs",
-              "RelativeDocumentMoniker": "Investment.cs",
-              "ToolTip": "C:\\Users\\sangbeom\\source\\repos\\Investment\\Investment.cs",
-              "RelativeToolTip": "Investment.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:12:10.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\sangbeom\\source\\repos\\Investment\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\sangbeom\\source\\repos\\Investment\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:02:33.411Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
