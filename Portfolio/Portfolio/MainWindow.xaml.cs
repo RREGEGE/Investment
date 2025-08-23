@@ -70,5 +70,10 @@ namespace Portfolio
                 textPassword.Visibility = Visibility.Visible;
             }
         }
+
+        private void Button_Click_Sign_Up(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

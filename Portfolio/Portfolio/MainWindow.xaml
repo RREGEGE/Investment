@@ -19,30 +19,30 @@
       <Border CornerRadius="10 0 0 10">
          <Border.Background>
             <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
-               <GradientStop Color="#3AA9AD" Offset="0"/>
-               <GradientStop Color="#3AADA1" Offset="1"/>
+               <GradientStop Color="DarkBlue" Offset="0"/>
+               <GradientStop Color="#000000" Offset="1"/>
             </LinearGradientBrush>
          </Border.Background>
 
          <Grid>
             <Canvas>
-               <Polygon Points="0,20 230,140 0,270" Fill="#4EB1B6"/>
-               <Polygon Points="100,400 200,370 180,470" Fill="#4EB1B6"/>
-               <Ellipse Margin="250 450 0 0" Width="40" Height="40" Fill="#4EB1B6"/>
-               <Ellipse Margin="50 400 0 0" Width="20" Height="20" Fill="#4EB1B6"/>
+               <Polygon Points="0,20 230,140 0,270" Fill="#1D4ED8"/>
+               <Polygon Points="100,400 200,370 180,470" Fill="#1D4ED8"/>
+               <Ellipse Margin="250 450 0 0" Width="40" Height="40" Fill="#1D4ED8"/>
+               <Ellipse Margin="50 400 0 0" Width="20" Height="20" Fill="#1D4ED8"/>
             </Canvas>
 
             <StackPanel VerticalAlignment="Center">
                <TextBlock Text="Sign Up" Style="{StaticResource titleText}"/>
                <TextBlock Text="Enter your personal info and create new account to connect us" Style="{StaticResource normalText}" Opacity="0.8" Margin="20 30"/>
-               <Button Content="Sign Up" Style="{StaticResource button}"/>
+               <Button Content="Sign Up" Click="Button_Click_Sign_Up" Style="{StaticResource button}"/>
             </StackPanel>
          </Grid>
       </Border>
 
       <Border Background="#ffffff" Grid.Column="1" CornerRadius="0 10 10 0" MouseDown="Border_MouseDown">
          <StackPanel VerticalAlignment="Center">
-            <TextBlock Text="Sign in to App" Style="{StaticResource titleText}" Foreground="#3AB19B"/>
+            <TextBlock Text="Sign in to App" Style="{StaticResource titleText}" Foreground="DarkBlue"/>
 
             <Border BorderThickness="1" BorderBrush="#acb0af" Margin="70 7" CornerRadius="5">
                <Grid Margin="7 9">

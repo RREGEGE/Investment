@@ -9,7 +9,7 @@ namespace Investment
 {
     public class PortfolioManager
     {
-        private List<Investment> portfolio;
+        private List<Investment_Model> portfolio;
         
         private const string filePath = "portfolio.json";
 
@@ -23,14 +23,14 @@ namespace Investment
             InitPortfolio();
         }
 
-        private List<Investment> LoadPortfolio()
+        private List<Investment_Model> LoadPortfolio()
         {
             if (File.Exists(filePath))
             {
                 var jsonString = File.ReadAllText(filePath);
-                return JsonSerializer.Deserialize<List<Investment>>(jsonString) ?? new List<Investment>();
+                return JsonSerializer.Deserialize<List<Investment_Model>>(jsonString) ?? new List<Investment_Model>();
             }
-            return new List<Investment>();
+            return new List<Investment_Model>();
         }
 
         private void SavePortfolio()
@@ -57,7 +57,7 @@ namespace Investment
         }
 
         // 종목 추가
-        public void AddInvestment(Investment investment)
+        public void AddInvestment(Investment_Model investment)
         {
             portfolio.Add(investment);
             SavePortfolio();
@@ -85,7 +85,7 @@ namespace Investment
         }
 
         // 포트폴리오 조회
-        public Dictionary<InvestmentType, List<Investment>> GetGroupedPortfolio()
+        public Dictionary<InvestmentType, List<Investment_Model>> GetGroupedPortfolio()
         {
             return portfolio.GroupBy(i => i.type)
                             .ToDictionary(g => g.Key, g => g.ToList());

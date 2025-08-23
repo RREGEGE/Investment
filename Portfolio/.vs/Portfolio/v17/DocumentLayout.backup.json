@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\A\\Documents\\Investment\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDBCC1D0-46D9-44D8-8863-37BB3543990D}|Portfolio\\Portfolio.csproj|c:\\users\\a\\documents\\investment\\portfolio\\portfolio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BDBCC1D0-46D9-44D8-8863-37BB3543990D}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDBCC1D0-46D9-44D8-8863-37BB3543990D}|Portfolio\\Portfolio.csproj|c:\\users\\a\\documents\\investment\\portfolio\\portfolio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BDBCC1D0-46D9-44D8-8863-37BB3543990D}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCC1D0-46D9-44D8-8863-37BB3543990D}|Portfolio\\Portfolio.csproj|c:\\users\\a\\documents\\investment\\portfolio\\portfolio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDBCC1D0-46D9-44D8-8863-37BB3543990D}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDBCC1D0-46D9-44D8-8863-37BB3543990D}|Portfolio\\Portfolio.csproj|c:\\users\\a\\documents\\investment\\portfolio\\portfolio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -40,10 +40,9 @@
               "RelativeDocumentMoniker": "Portfolio\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
               "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Portfolio\\Portfolio\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
               "RelativeToolTip": "Portfolio\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAYwIYAAAB6AAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwIYAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T12:34:14.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T12:34:14.613Z"
             },
             {
               "$type": "Document",
@@ -54,12 +53,11 @@
               "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Portfolio\\Portfolio\\Portfolio.csproj",
               "RelativeToolTip": "Portfolio\\Portfolio.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-18T11:43:26.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T11:43:26.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Portfolio\\Portfolio\\App.xaml",
               "RelativeDocumentMoniker": "Portfolio\\App.xaml",
@@ -71,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Portfolio\\Portfolio\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Portfolio\\MainWindow.xaml",
