@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:form\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\form\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|C:\\Users\\A\\Documents\\Investment\\Investment\\form\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:form\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Form\\User.cs",
               "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\User.cs",
               "RelativeToolTip": "Form\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T08:49:59.348Z",
               "EditorCaption": ""
@@ -62,8 +62,7 @@
               "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\SignUp.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Form\\SignUp.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T02:41:53.912Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-08-24T02:41:53.912Z"
             },
             {
               "$type": "Document",
