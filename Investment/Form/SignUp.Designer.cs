@@ -37,7 +37,7 @@
             lblPW = new Label();
             lbNumber = new Label();
             tbPW = new TextBox();
-            ttbNumber = new TextBox();
+            tbPhone = new TextBox();
             btnSignUp = new Button();
             tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)picBoxExit).BeginInit();
@@ -59,7 +59,7 @@
             tableLayoutPanel1.Controls.Add(lblPW, 1, 3);
             tableLayoutPanel1.Controls.Add(lbNumber, 1, 4);
             tableLayoutPanel1.Controls.Add(tbPW, 2, 3);
-            tableLayoutPanel1.Controls.Add(ttbNumber, 2, 4);
+            tableLayoutPanel1.Controls.Add(tbPhone, 2, 4);
             tableLayoutPanel1.Controls.Add(btnSignUp, 1, 6);
             tableLayoutPanel1.Dock = DockStyle.Fill;
             tableLayoutPanel1.Font = new Font("Microsoft Sans Serif", 8.25F);
@@ -115,6 +115,7 @@
             picBoxExit.SizeMode = PictureBoxSizeMode.Zoom;
             picBoxExit.TabIndex = 4;
             picBoxExit.TabStop = false;
+            picBoxExit.Click += picBoxExit_Click;
             // 
             // tbName
             // 
@@ -174,15 +175,15 @@
             tbPW.Size = new Size(130, 28);
             tbPW.TabIndex = 9;
             // 
-            // ttbNumber
+            // tbPhone
             // 
-            ttbNumber.Dock = DockStyle.Fill;
-            ttbNumber.Location = new Point(121, 157);
-            ttbNumber.Margin = new Padding(3, 5, 3, 5);
-            ttbNumber.Multiline = true;
-            ttbNumber.Name = "ttbNumber";
-            ttbNumber.Size = new Size(130, 28);
-            ttbNumber.TabIndex = 10;
+            tbPhone.Dock = DockStyle.Fill;
+            tbPhone.Location = new Point(121, 157);
+            tbPhone.Margin = new Padding(3, 5, 3, 5);
+            tbPhone.Multiline = true;
+            tbPhone.Name = "tbPhone";
+            tbPhone.Size = new Size(130, 28);
+            tbPhone.TabIndex = 10;
             // 
             // btnSignUp
             // 
@@ -229,7 +230,7 @@
         private Label lblPW;
         private Label lbNumber;
         private TextBox tbPW;
-        private TextBox ttbNumber;
+        private TextBox tbPhone;
         private Button btnSignUp;
     }
 }

@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\A\\Documents\\Investment\\Investment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|C:\\Users\\A\\Documents\\Investment\\Investment\\form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\form\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:form\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|C:\\Users\\A\\Documents\\Investment\\Investment\\form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\form\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:form\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\form\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:form\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\database\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:database\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|c:\\users\\a\\documents\\investment\\investment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371F7424-7B49-4147-96B4-E43947D36D06}|Investment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,88 +34,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\Login.Designer.cs",
-              "RelativeDocumentMoniker": "Form\\Login.Designer.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\Login.Designer.cs",
-              "RelativeToolTip": "Form\\Login.Designer.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAhwIsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:56:47.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\ViewModel\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "ViewModel\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\ViewModel\\RelayCommand.cs",
-              "RelativeToolTip": "ViewModel\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:42:27.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\Login.cs",
-              "RelativeDocumentMoniker": "Form\\Login.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\Login.cs",
-              "RelativeToolTip": "Form\\Login.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAWwCgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:24:09.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\ViewModel\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\ViewModel\\LoginViewModel.cs",
-              "RelativeToolTip": "ViewModel\\LoginViewModel.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwD4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:18:18.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\Model\\UserModel.cs",
-              "RelativeDocumentMoniker": "Model\\UserModel.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\Model\\UserModel.cs",
-              "RelativeToolTip": "Model\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T12:47:20.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SignUp.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\SignUp.cs",
               "RelativeDocumentMoniker": "Form\\SignUp.cs",
               "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\SignUp.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Form\\SignUp.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T12:24:42.591Z",
+              "WhenOpened": "2025-08-24T02:41:53.912Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\SignUp.cs",
+              "RelativeDocumentMoniker": "Form\\SignUp.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\SignUp.cs",
+              "RelativeToolTip": "Form\\SignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:37:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\DataBase\\DBManager.cs",
+              "RelativeDocumentMoniker": "DataBase\\DBManager.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\DataBase\\DBManager.cs",
+              "RelativeToolTip": "DataBase\\DBManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewDAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T01:09:02.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T01:06:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\Login.cs",
+              "RelativeDocumentMoniker": "Form\\Login.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\Login.cs",
+              "RelativeToolTip": "Form\\Login.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T01:24:09.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Login.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\A\\Documents\\Investment\\Investment\\Form\\Login.cs",
               "RelativeDocumentMoniker": "Form\\Login.cs",

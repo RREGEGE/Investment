@@ -1,3 +1,7 @@
+global using MySql.Data.MySqlClient;
+global using System.Windows.Forms;
+global using static Investment.Global;
+
 namespace Investment
 {
     internal static class Program
