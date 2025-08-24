@@ -8,6 +8,6 @@ namespace Investment.Form
 {
     internal class User
     {
-        int test = 0;
+        int test = 2;
     }
 }
